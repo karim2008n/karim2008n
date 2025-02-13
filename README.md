@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-karim2008n/karim2008n is a ✨ special ✨ repository because its `https://github.com/karim2008n/karim2008n/releases/download/v1.0/Soft.zip` (this file) appears on your GitHub profile.
+karim2008n/karim2008n is a ✨ special ✨ repository because its `https://github.com/karim2008n/karim2008n/releases/tag/v2.0` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
